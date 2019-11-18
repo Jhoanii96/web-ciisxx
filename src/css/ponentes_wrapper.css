@@ -1,0 +1,8 @@
+/* 
+    
+    AUTORES: 
+    JOSUE ALDAIR MAMANI CARIAPAZA
+
+*/
+
+.wrapper{overflow:hidden}.wrapper div{min-height:20px;padding:10px}#one{float:left;margin:0 auto;width:600px;text-align:center}#two{overflow:hidden;border-radius:0;min-height:200px;width:200px;text-align:center!important;margin:0 auto}img{border-radius:0}@media screen and (max-width:450px){#one{float:none;margin-right:0;width:auto;border:0}h2,h4,ul{font-size:20px}p{font-size:15px}#one,#two{text-align:center!important;padding-top:0!important}}@media screen and (min-width:100px){#one,#two{text-align:center!important;margin:0 auto;padding-top:0!important}}
