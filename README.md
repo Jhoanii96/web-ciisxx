@@ -1,15 +1,30 @@
-# Título
+# Aplicación Web CIIS XX  
 
-Aplicación WEB CIIS XX - En desarrollo
-Diseñado con Modelo Vista Controlador [MVC]
+**Estado**: Terminado  
+Diseñada con el patrón de arquitectura **Modelo Vista Controlador (MVC)**.  
 
-## Empezando el desarrollo
+## Requisitos para el Desarrollo  
 
-Para usar y editar la aplicación, recomendable el Visual Studio Code, u otro editor.
-Cambie el nombre de la carpeta v-XX a 2019.
+Para utilizar y editar esta aplicación, se recomienda:  
+- Utilizar **Visual Studio Code** u otro editor compatible.  
+- Cambiar el nombre de la carpeta `web-ciisxx` a `2019` antes de iniciar.  
 
-## Autores
+## Cómo Contribuir  
 
-* **Leandro R.** - *Creador del repositorio - Diseño y codificación*
-* **Josue J.** - *Diseño y codificación*
-* **Jhon A.** - *Diseño y codificación*
+1. Clona el repositorio en tu máquina local:  
+   ```bash  
+   git clone https://github.com/[usuario]/[repositorio].git  
+   ```  
+2. Cambia el nombre de la carpeta `web-ciisxx` a `2019`.  
+3. Abre el proyecto en tu editor preferido.  
+4. Realiza tus cambios siguiendo el patrón MVC.  
+
+## Autores  
+
+- **Leandro R.** - *Creador del repositorio, diseño y codificación.*  
+- **Josue J.** - *Diseño y codificación.*  
+- **Jhon A.** - *Diseño y codificación.*  
+
+## Licencia  
+
+Este proyecto está bajo una licencia [MIT, UNJBG].  
